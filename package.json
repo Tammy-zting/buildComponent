@@ -10,6 +10,9 @@
     "type": "ssh",
     "url": "git@gitlabdev.paciolan.info:development/library/javascript/remote-component-starter.git"
   },
+  "files":[
+    "./dist"
+  ],
   "scripts": {
     "build": "npm run clean && cross-env NODE_ENV=production webpack --mode production",
     "build:dev": "npm run clean && cross-env NODE_ENV=development webpack --mode development",
