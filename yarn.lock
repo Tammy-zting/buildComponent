@@ -6000,8 +6000,8 @@ postcss-value-parser@^4.0.0:
   resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-4.0.0.tgz#99a983d365f7b2ad8d0f9b8c3094926eab4b936d"
 
 postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.17, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.17"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.17.tgz#4da1bdff5322d4a0acaab4d87f3e782436bad31f"
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -8135,7 +8135,7 @@ webpack-log@^2.0.0:
 
 webpack-node-externals@^1.7.2:
   version "1.7.2"
-  resolved "http://r.cnpmjs.org/webpack-node-externals/download/webpack-node-externals-1.7.2.tgz#6e1ee79ac67c070402ba700ef033a9b8d52ac4e3"
+  resolved "https://r.cnpmjs.org/webpack-node-externals/download/webpack-node-externals-1.7.2.tgz#6e1ee79ac67c070402ba700ef033a9b8d52ac4e3"
 
 webpack-sources@^0.1.4:
   version "0.1.5"
